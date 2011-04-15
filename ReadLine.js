@@ -1,8 +1,7 @@
 /**
  * ReadLine.js
  * Copyright (c) 2011, Yoshinori Kohyama (http://algobit.jp/)
- *
- * version 1.0 [ Thu Apr 14 18:18:42 JST 2011 ]
+ * all rights reserved.
  */
 try { Algobit } catch (e) { Algobit = {}; }
 Algobit.dp = function (m) {
@@ -188,7 +187,7 @@ Algobit.ReadLine = function (cols, rows) {
 			, [68, true, false, false] // Ctrl-D
 
 		]}, 'deleteToEnd': {fb: this.f_deleteToEnd, sck: [
-			[75, false, false, false] // Ctrl-K
+			[75, true, false, false] // Ctrl-K
 
 		]}, 'back': {fb: this.f_back, sck: [
 			[37, false, false, false] // left-arrow
