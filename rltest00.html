@@ -1,0 +1,13 @@
+<html><head>
+<script type="text/javascript" src="ReadLine.js"></script>
+<script type="text/javascript">
+window.onload = function() {
+	var b, t;
+	t = new Algobit.ReadLine(80, 24);
+	b = document.getElementsByTagName('body')[0];
+	b.appendChild(t.textarea);
+
+	t.print("prompt> ");
+	t.gets = function(s) { t.print("[" + s + "]\nprompt> "); };
+}
+</script></head><body></body></html>
