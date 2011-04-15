@@ -10,9 +10,9 @@ Tested on Chrome.
 I want it to work on Safari, FireFox, Opera, IE9 but haven't tested yet.  
 IE8 will not do.  
 
-詳細は Wiki を見てください.  
+詳細は [Wiki](https://github.com/kohyama/jsReadLine/wiki) を見てください.  
 
-To see Wiki for details.  
+To see [Wiki](https://github.com/kohyama/jsReadLine/wiki) for details.  
 
 本ソフトゥアのライセンスは, 修正BSDライセンスとします.  
 
