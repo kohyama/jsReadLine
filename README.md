@@ -10,6 +10,10 @@ Tested on Chrome.
 I want it to work on Safari, FireFox, Opera, IE9 but haven't tested yet.  
 IE8 will not do.  
 
+詳細は Wiki を見てください.  
+
+To see Wiki for details.  
+
 本ソフトゥアのライセンスは, 修正BSDライセンスとします.  
 
 This software license is the New BSD License.  
